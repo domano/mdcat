@@ -2,7 +2,7 @@
 
 A terminal markdown renderer that makes your markdown files look beautiful in the terminal. Built specifically with iTerm2 users in mind.
 
-![demo-placeholder](https://via.placeholder.com/800x400?text=Demo+GIF+Coming+Soon)
+![image](https://github.com/user-attachments/assets/955b80dc-a618-4515-84af-f1c714ad1377)
 
 ## Features
 
